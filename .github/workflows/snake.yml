@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *" # runs every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,6 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "chore: update contribution snake"
-          committer_name: GitHub Actions
-          committer_email: actions@github.com
+          committer: "GitHub Actions <actions@github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
