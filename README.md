@@ -41,7 +41,7 @@ If your app or site isn’t ranking, I’ll help it climb like it’s training f
 
 ## 🚀 Featured Projects
 
-### 🔹 [GCG Interview Evaluation Portal](https://github.com/kwamevaughan/gcg-interview-evaluation)
+### 🔹 [GCG Interview Evaluation Portal](https://github.com/kwamevaughan/gcg-interview-evaluation) • [Live Site](https://career.growthpad.co.ke/)
 
 A sleek internal hiring portal for **Growthpad Consulting Group**.  
 ✅ Job listings, animated surveys, personality scoring  
@@ -52,7 +52,7 @@ Built with **Next.js + Tailwind** and deployed on **Vercel**.
 
 ---
 
-### 🔹 [Credit Bank Kenya Microsite](https://github.com/kwamevaughan/credit-bank-microsite)
+### 🔹 [Credit Bank Kenya Microsite](https://github.com/kwamevaughan/credit-bank-microsite) • [Live Site](https://credit-bank-microsite.vercel.app/)
 
 Gamified customer engagement for **Credit Bank Kenya** 🎯  
 ✅ Points system, real-time leaderboard, quizzes & challenges  
@@ -63,7 +63,7 @@ Powered by **Next.js + Tailwind** and deployed on **Vercel**.
 
 ---
 
-### 🔹 [Tender Scraper App](https://github.com/kwamevaughan/tender-scraper-frontend)
+### 🔹 [Tender Scraper App](https://github.com/kwamevaughan/tender-scraper-frontend) • [Live Site](https://tender.growthpad.co.ke/)
 
 Web app for automatically scraping open tenders across various platforms.  
 ✅ Helps the biz dev team at Growthpad spot & apply for new tenders fast  
@@ -79,6 +79,14 @@ Deployed on **Vercel + Render**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwamevaughan&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kwamevaughan&theme=radical&hide_border=true)
+
+---
+
+## 🐍 Contribution Graph Snake Animation
+
+![snake gif](https://github.com/kwamevaughan/kwamevaughan/blob/output/github-contribution-grid-snake.svg)
+
+> Yes, it’s a snake eating my commits. Because why not.
 
 ---
 
