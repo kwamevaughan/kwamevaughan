@@ -1,6 +1,4 @@
-# 👋 Yo! I'm Emmanuel Aboagye Eshun — aka your next favorite dev
-
-### 👨‍💻 Full Stack Sorcerer | React ⚛️ • Next.js ⚡ • Python 🐍 • WordPress 🧙‍♂️ • Tailwind CSS 💨
+# 👨‍💻 Full Stack Sorcerer | React ⚛️ • Next.js ⚡ • Python 🐍 • WordPress 🧙‍♂️ • Tailwind CSS 💨
 
 Welcome to my slice of GitHub 🍕. I build slick, scalable, and sometimes magical web apps that don’t just work—they vibe. Whether it’s crafting pixel-perfect UIs or wrangling wild APIs, I’ve got the tools and the caffeine.
 
@@ -25,6 +23,18 @@ Welcome to my slice of GitHub 🍕. I build slick, scalable, and sometimes magic
 ## 🧠 Bonus Skill: SEO That Slaps
 
 Not to brag (okay maybe a little), but I’m also really good at **SEO optimization**—from structured data and clean semantic HTML to performance tweaks and meta tag magic.  
+I’ve helped apps and websites soar to the top of Google Search results through:
+
+- 🔍 **Keyword research** using tools like **Ahrefs** and **SEMrush**  
+- ⚡ **Performance optimizations** (hello, Core Web Vitals!)  
+- 🧑‍💻 **On-page SEO**: Clean code, semantic HTML, and well-crafted meta tags  
+- 📈 **Content strategy**: Helping businesses rank and stand out
+- 📊 **Google Analytics**: Setting up and configuring GA to track traffic, user behavior, and conversions  
+- 🖥️ **Google Search Console**: Submitting sitemaps, fixing errors, and analyzing search performance  
+- 🏷️ **Google Tag Manager**: Efficiently managing marketing tags without extra code or headaches
+- 💨 **Page Speed Optimization**: I use tools like **Lighthouse** and **WebPageTest** to ensure a site is fast and delivers top-tier performance.  
+- 🚀 **SEO Audits & Reporting**: I regularly audit sites to improve search visibility and drive organic growth. 
+
 If your app or site isn’t ranking, I’ll help it climb like it’s training for Everest.
 
 ---
