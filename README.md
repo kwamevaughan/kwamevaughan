@@ -51,7 +51,7 @@ If your app or site isn’t ranking, I’ll help it climb like it’s training f
 
 ## 🚀 Featured Projects
 
-### 🔹 [GCG Interview Evaluation Portal](https://github.com/kwamevaughan/gcg-interview-evaluation) • [Live Site](https://career.growthpad.co.ke/)
+### 🔹 [GCG Interview Evaluation Portal](https://github.com/kwamevaughan/gcg-interview-evaluation) • [Live Site](https://careers.growthpad.co.ke/)
 
 A sleek internal hiring portal for **Growthpad Consulting Group**.  
 ✅ Job listings, animated surveys, personality scoring  
