@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="300" style="border-radius: 50%;" src="https://raw.githubusercontent.com/kwamevaughan/kwamevaughan/refs/heads/main/dev-anim.gif">
+<img align="right" alt="Coding" width="300" style="border-radius: 50%; padding:20px;" src="https://raw.githubusercontent.com/kwamevaughan/kwamevaughan/refs/heads/main/dev-anim.gif">
 
 > **Passionate full-stack developer** crafting digital experiences that don't just work—they inspire. From pixel-perfect UIs to robust backend architectures, I build solutions that scale and perform at the highest level.
 
