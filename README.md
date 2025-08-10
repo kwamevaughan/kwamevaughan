@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 > **Passionate full-stack developer** crafting digital experiences that don't just work—they inspire. From pixel-perfect UIs to robust backend architectures, I build solutions that scale and perform at the highest level.
 
@@ -70,12 +70,6 @@ const developer = {
 ---
 
 ## 🌟 What Makes Me Different
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
 
 <table>
 <tr>
@@ -230,11 +224,6 @@ const developer = {
 
 </div>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
 
 ---
 
@@ -253,10 +242,8 @@ const developer = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwamevaughan&bg_color=0D1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&hide_border=true" width="100%"/>
 
-### 🐍 Contribution Snake Animation
-![Snake animation](https://github.com/kwamevaughan/kwamevaughan/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
+<!-- ### 🐍 Contribution Snake Animation -->
+<!-- ![Snake animation](https://github.com/kwamevaughan/kwamevaughan/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
@@ -336,12 +323,6 @@ const exploring = {
 
 </div>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
 ---
 
 <div align="center">
@@ -354,7 +335,6 @@ const exploring = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **Thanks for visiting! Now go build something amazing** 🚀
 
