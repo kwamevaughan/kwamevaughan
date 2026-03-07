@@ -46,7 +46,7 @@ Gamified customer engagement platform with a points-based reward system, real-ti
 
 ---
 
-### Multi-Store POS & Inventory Management System
+### [Multi-Store POS & Inventory Management System](https://businessflowpos.vercel.ap)
 Web-based POS and inventory platform serving 5+ clients across 10+ retail locations. Stock tracking, sales management, reporting dashboards, and role-based access control.  
 `React` `Node.js` `PostgreSQL` `Supabase`
 
