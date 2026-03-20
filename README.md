@@ -16,7 +16,7 @@ I build web platforms that solve real business problems — membership systems, 
 **Frontend** — React, Next.js, Tailwind CSS, JavaScript  
 **Backend** — Node.js, Python, Supabase, PostgreSQL, REST APIs  
 **Infrastructure** — Vercel, GitHub CI/CD, Redis  
-**Platforms** — WordPress, Magento, Joomla  
+**Platforms** — WordPress, Magento, Joomla , Sanity, Strapi 
 
 ---
 
