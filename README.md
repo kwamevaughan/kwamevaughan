@@ -13,10 +13,12 @@ I build web platforms that solve real business problems — membership systems, 
 
 ## Stack
 
-**Frontend** — React, Next.js, Tailwind CSS, JavaScript  
-**Backend** — Node.js, Python, Supabase, PostgreSQL, REST APIs  
-**Infrastructure** — Vercel, GitHub CI/CD, Redis  
-**Platforms** — WordPress, Magento, Joomla , Sanity, Strapi 
+**Frontend** — React, Next.js, TypeScript, Tailwind CSS, JavaScript
+**Backend** — Node.js, Python, Supabase, PostgreSQL, REST APIs
+**Auth & Security** — JWT, NextAuth, OAuth, RBAC
+**Payments** — Stripe, Paystack, Flutterwave
+**Infrastructure** — Vercel, GitHub CI/CD, Redis
+**Platforms** — WordPress, Magento, Joomla, Sanity, Strapi
 
 ---
 
